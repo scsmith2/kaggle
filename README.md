@@ -2,5 +2,5 @@
 ##Contents
 * General Code
 * Competition Code
-.* National Data Science Bowl
-.* Otto
+ * National Data Science Bowl
+ * Otto
