@@ -1,6 +1,6 @@
 # kaggle
 ##Contents
-- General Code
-- Competition Specific Code
-* National Data Science Bowl
-* Otto
+* General Code
+* Competition Code
+.* National Data Science Bowl
+.* Otto
