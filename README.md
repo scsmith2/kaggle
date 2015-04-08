@@ -1,4 +1,6 @@
-## kaggle
-#Contents
-- Code used for specific kaggle competitions
-- General code used for kaggle competitions
+# kaggle
+##Contents
+- General Code
+- Competition Specific Code
+* National Data Science Bowl
+* Otto
